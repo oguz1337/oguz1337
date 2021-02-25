@@ -1,7 +1,7 @@
 ![Banner](https://lamachinerie.org/wp-content/uploads/2019/06/github.jpg)
 ## Hi there Welcome to my Github Account.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr>
-*Hello, I am a developer open to learning, I am someone who posts on my blog and social media accounts.*
+Hello, I am a developer open to learning, I am someone who posts on my blog and social media accounts.
 <hr>
 
 
