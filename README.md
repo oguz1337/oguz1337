@@ -4,6 +4,8 @@
 
 ### Who am I?
 ✍️Cyber security living in Turkey, I'm someone who loves technology and programming. I am a developer open to learning. <br> Website I write different types of articles and post on my blog
+
+<img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/blogger.svg" width="20" height="20"> • [https://www.sybercodev1.com/](https://www.sybercodev1.com/)
 <hr>
 
 ### My Social Network Account <img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/topgif.gif" width="50" height="50"><br>
