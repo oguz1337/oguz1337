@@ -6,7 +6,7 @@
 ✍️Cyber security living in Turkey, I'm someone who loves technology and programming. I am a developer open to learning. <br> Website I write different types of articles and post on my blog
 <hr>
 
-### My Social Network Account - - <img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/topgif.gif" width="50" height="50"><br>
+### My Social Network Account <img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/topgif.gif" width="50" height="50"><br>
 <img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/instalogo.svg" width="20" height="20"> • [Instagram](https://instagram.com/sybercodev1blog) 
 <br>
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/png/twitter.png" width="20" height="20"> • [Twitter](https://twitter.com/sybercodev1) <br>
