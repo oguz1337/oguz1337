@@ -23,7 +23,7 @@
 <img src="https://github.com/sybercodev1real/sybercodev1real/blob/main/email.svg" width="20" height="20"> • [Email: iletisim@sybercodev1.com](mailto:iletisim@sybercodev1.com) <br>
 
 ### Have Fun!
-
+<pre>
           |\_|\
           | a_a\
           | | "]
@@ -45,3 +45,4 @@
   \ \| | /   | |__
      / |   |____)
        |__)
+<pre>
